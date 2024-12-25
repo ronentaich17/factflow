@@ -2,7 +2,7 @@
 
 This is the source code for my web application that shows users a curated list of fun facts based on their topic of interest.
 
-Check out the website [here](factflowbyronen.netlify.app/)!
+Check out the website [here](https://factflowbyronen.netlify.app/)!
 
 ## Notes
 
