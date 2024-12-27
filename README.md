@@ -1,6 +1,6 @@
 # FactFlow
 
-This is the source code for my web application that shows users a curated list of fun facts based on their topic of interest.
+This is the source code for my web application that shows users a curated list of fun facts based on their topic of interest. Users are given the option to upvote and downvote the uploaded facts. If a particular fact has an overwhelming amount of downvotes, a marker will appear to inform other users of the fact's shakey credibility.
 
 Check out the website [here](https://factflowbyronen.netlify.app/)!
 
